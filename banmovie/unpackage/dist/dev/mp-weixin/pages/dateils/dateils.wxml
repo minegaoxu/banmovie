@@ -1,0 +1,1 @@
+<view class="big_view"><view class="disBox" style="{{'height:'+(top+hei+'px')+';'}}"><text style="font-size:20px;position:absolute;bottom:2px;" decode="{{true}}" data-event-opts="{{[['tap',[['backbtn',['$event']]]]]}}" bindtap="__e">⬅</text></view><view></view></view>
